@@ -213,6 +213,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 280px;
     height: 60px;
@@ -222,7 +225,6 @@ html body .container form select{
     margin-top: 4px;
     width: 10px;
 }
-/*==================================================================*/
 .foot{
     padding: 10px;
 }
@@ -235,7 +237,6 @@ html body .container form select{
 .lineHead {
     height: 300px; 
 }
-/*==================================================================*/
 .all_form form {
     padding: 200px 0px 30px;
 }
@@ -257,6 +258,9 @@ html body .container .all_form input{
 }
 html body .container select{
     width: 300px;
+}
+.btn {
+    margin-top: 130px ;
 }
 .all_form .btn .submit-btn{
     width: 300px;
@@ -308,6 +312,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 350px;
     height: 60px;
@@ -358,6 +365,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 400px;
     height: 60px;
@@ -406,6 +416,9 @@ html body .container form select{
 }
 .all_form form option {
     font-size: 14px;
+}
+.btn {
+    margin-top: 130px ;
 }
 .all_form form .btn .submit-btn{
     width: 450px;
@@ -456,6 +469,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 500px;
     height: 60px;
@@ -504,6 +520,9 @@ html body .container form select{
 }
 .all_form form option {
     font-size: 14px;
+}
+.btn {
+    margin-top: 130px ;
 }
 .all_form form .btn .submit-btn{
     width: 600px;
@@ -554,6 +573,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 600px;
     height: 60px;
@@ -599,6 +621,9 @@ html body .container form select{
 .all_form form option {
     font-size: 14px;
 }
+.btn {
+    margin-top: 130px ;
+}
 .all_form form .btn .submit-btn{
     width: 700px;
     height: 60px;
@@ -643,6 +668,9 @@ html body .container form select{
 }
 .all_form form option {
     font-size: 14px;
+}
+.btn {
+    margin-top: 130px ;
 }
 .all_form form .btn .submit-btn{
     width: 800px;
@@ -700,4 +728,3 @@ select{
     width: 450px;
 }
 }
-
